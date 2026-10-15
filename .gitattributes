@@ -1,0 +1,29 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Unity YAML text files (prevent CRLF corruption and auto-merge conflicts)
+*.cs text diff=csharp
+*.cginc text
+*.shader text
+*.unity text merge=unityyamlmerge
+*.prefab text merge=unityyamlmerge
+*.mat text merge=unityyamlmerge
+*.meta text merge=unityyamlmerge
+*.asset text merge=unityyamlmerge
+
+# Python files
+*.py text diff=python
+*.json text
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+
+# Media / Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
