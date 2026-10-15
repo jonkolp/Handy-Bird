@@ -1,3 +1,6 @@
+
+
+
 # 🐦 Flappy Bird Using Hand Gestures
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
@@ -10,6 +13,8 @@ An interactive, computer-vision controlled **Flappy Bird** game that bridges **G
 Instead of tapping a screen or pressing a spacebar, the player controls the bird's flight in real time using intuitive **hand gestures** captured by a webcam.
 
 ---
+
+https://github.com/user-attachments/assets/7fe50d72-1ad8-41b9-8f77-49bf4bc03baa
 
 ## 🎮 How It Works
 
