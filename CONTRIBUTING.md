@@ -9,8 +9,8 @@ We welcome improvements, bug reports, feature requests, and code contributions.
 
 1. **Fork and Clone**:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-hand-gestures.git
-   cd flappy-bird-hand-gestures
+   git clone https://github.com/jonkolp/Handy-Bird.git
+   cd Handy-Bird
    ```
 
 2. **Python Environment**:

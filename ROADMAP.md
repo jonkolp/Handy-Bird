@@ -144,7 +144,7 @@ Create desktop launcher scripts so non-technical users can launch the game witho
 ## 💡 How to Contribute
 
 Interested in implementing any of these features?
-1. Check the [open issues](https://github.com/your-username/flappy-bird-hand-gestures/issues) or open a new issue proposing your implementation.
+1. Check the [open issues](https://github.com/jonkolp/Handy-Bird/issues) or open a new issue proposing your implementation.
 2. Fork the repository and create a feature branch (`git checkout -b feature/procedural-spawner`).
 3. Commit your changes with clear, descriptive commit messages.
 4. Open a Pull Request referencing the roadmap item.

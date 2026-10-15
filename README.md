@@ -81,8 +81,8 @@ Instead of tapping a screen or pressing a spacebar, the player controls the bird
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/flappy-bird-hand-gestures.git
-cd "flappy-bird-hand-gestures"
+git clone https://github.com/jonkolp/Handy-Bird.git
+cd "Handy-Bird"
 ```
 
 ### Step 2: Set Up Python Environment
