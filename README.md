@@ -14,8 +14,6 @@ Instead of tapping a screen or pressing a spacebar, the player controls the bird
 
 ---
 
-https://github.com/user-attachments/assets/7fe50d72-1ad8-41b9-8f77-49bf4bc03baa
-
 ## 🎮 How It Works
 
 ```
